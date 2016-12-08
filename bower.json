@@ -1,0 +1,20 @@
+{
+  "name": "iluminage-coming-soon",
+  "authors": [
+    "Bing Lan <763850347@qq.com>"
+  ],
+  "description": "iluminage coming soon page",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
